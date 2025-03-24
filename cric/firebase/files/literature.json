@@ -1,0 +1,57 @@
+[
+  {
+    "protein": "SRSF1",
+    "hg19": "hsa_circ_0027068",
+    "hg38": "-",
+    "gene": "ATP5B",
+    "disease": "Glioblastoma",
+    "function": "Promote",
+    "drugs": "N/A",
+    "modification": "N/A",
+    "doi": "https://doi.org/10.1186/s13046-021-01931-9"
+  },
+  {
+    "protein": "SRSF1",
+    "hg19": "hsa_circ_0001445",
+    "hg38": "hsa-SMARCA5_0005",
+    "gene": "SMARCA5",
+    "disease": "HIV",
+    "function": "Promote",
+    "drugs": "N/A",
+    "modification": "N/A",
+    "doi": "DOI:10.1126/sciadv.adh91"
+  },
+  {
+    "protein": "AHNAK, TRIM25",
+    "hg19": "hsa_circ_0006834",
+    "hg38": "hsa-EPB41L5_0022",
+    "gene": "EPB41L5",
+    "disease": "Non Small Cell Lung Cancer",
+    "function": "Inhibit",
+    "drugs": "N/A",
+    "modification": "N/A",
+    "doi": "DOI:10.1080/09546634.2023.2299107"
+  },
+  {
+    "protein": "CATENIN(β-catenin)",
+    "hg19": "hsa_circ_0039408",
+    "hg38": "-",
+    "gene": "MMP2",
+    "disease": "Breast Cancer",
+    "function": "Promote",
+    "drugs": "N/A",
+    "modification": "N/A",
+    "doi": "PMCID:PMC6726993"
+  },
+  {
+    "protein": "c-myc",
+    "hg19": "hsa_circ_0004214",
+    "hg38": "hsa-AMOTL1_0004",
+    "gene": "AMOTL1",
+    "disease": "Breast Cancer",
+    "function": "Promote",
+    "drugs": "N/A",
+    "modification": "N/A",
+    "doi": "DOI:10.1038/cdd.2017.86"
+  }
+]
