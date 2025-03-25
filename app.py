@@ -20,8 +20,7 @@ def serve_circ_discoverer():
 app = Dash(__name__, server=server, url_base_pathname='/', external_stylesheets=[dbc.themes.BOOTSTRAP])
 
 
-if __name__ != '__main__':
-    gunicorn_app = server 
+application = server 
     
 if __name__ == '__main__':
     app.run_server(debug=True)
